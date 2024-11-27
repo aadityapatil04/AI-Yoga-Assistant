@@ -1,0 +1,6 @@
+1st : python -m venv myenv 
+2nd : myenv\Scripts\activate
+
+install : pip install -r requirements.txt
+
+Run: python app.py
